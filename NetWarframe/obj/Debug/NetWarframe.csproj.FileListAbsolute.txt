@@ -4,3 +4,6 @@ D:\Work\C#\NetWarframe\NetWarframe\bin\Debug\NetWarframe.pdb
 D:\Work\C#\NetWarframe\NetWarframe\obj\Debug\NetWarframe.csprojResolveAssemblyReference.cache
 D:\Work\C#\NetWarframe\NetWarframe\obj\Debug\NetWarframe.exe
 D:\Work\C#\NetWarframe\NetWarframe\obj\Debug\NetWarframe.pdb
+D:\Work\C#\NetWarframe\NetWarframe\NetWarframe\bin\Debug\NetWarframe.exe.config
+D:\Work\C#\NetWarframe\NetWarframe\NetWarframe\obj\Debug\NetWarframe.exe
+D:\Work\C#\NetWarframe\NetWarframe\NetWarframe\obj\Debug\NetWarframe.pdb
