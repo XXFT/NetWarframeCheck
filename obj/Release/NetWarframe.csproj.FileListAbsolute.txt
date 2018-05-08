@@ -1,0 +1,5 @@
+D:\Work\C#\NetWarframe\NetWarframe\bin\Release\NetWarframe.exe.config
+D:\Work\C#\NetWarframe\NetWarframe\bin\Release\NetWarframe.exe
+D:\Work\C#\NetWarframe\NetWarframe\bin\Release\NetWarframe.pdb
+D:\Work\C#\NetWarframe\NetWarframe\obj\Release\NetWarframe.exe
+D:\Work\C#\NetWarframe\NetWarframe\obj\Release\NetWarframe.pdb
